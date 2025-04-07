@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "vike dev",
+    "build": "vike build",
+    "preview": "vike build && vike preview"
+  },
+  "dependencies": {
+    "cross-fetch": "^4.1.0",
+    "mini-van-plate": "^0.6.3",
+    "node-fetch": "^3.3.2",
+    "vanjs-core": "^1.5.3",
+    "vanjs-ext": "^0.6.2",
+    "vike": "0.4.225",
+    "vite": "^6.2.2",
+    "vite-plugin-vanjs": "^0.0.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/node-fetch": "^2.6.12",
+    "typescript": "^5.8.2"
+  },
+  "type": "module"
+}
