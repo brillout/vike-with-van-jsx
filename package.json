@@ -8,16 +8,16 @@
     "cross-fetch": "^4.1.0",
     "mini-van-plate": "^0.6.3",
     "node-fetch": "^3.3.2",
-    "vanjs-core": "^1.5.3",
+    "vanjs-core": "^1.5.5",
     "vanjs-ext": "^0.6.2",
     "vike": "0.4.225",
-    "vite": "^6.2.2",
+    "vite": "^6.3.4",
     "vite-plugin-vanjs": "^0.0.9"
   },
   "devDependencies": {
-    "@types/node": "^22.13.10",
+    "@types/node": "^22.15.3",
     "@types/node-fetch": "^2.6.12",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   },
   "type": "module"
 }
